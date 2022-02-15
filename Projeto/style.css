@@ -16,7 +16,7 @@
      font-family: 'Passion';
      background-color: black;
      color: white;
-     height: 40vh;
+     max-height: 300px;
     
  }
  header p{
