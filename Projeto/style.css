@@ -16,12 +16,13 @@
      font-family: 'Passion';
      background-color: black;
      color: white;
-     max-height: 300px;
+     max-height: 250px;
     
  }
  header p{
 font-family: Arial, Helvetica, sans-serif;
 text-align: center;
+padding-bottom: 20px;
  }
  header h1{
      padding-top: 40px;
@@ -74,4 +75,7 @@ top: 70px;
      text-align: center;
      padding: 20px;
      font-size: 2vw;
+}header>p>a{
+     text-decoration: none;
+     color: white;
  }
